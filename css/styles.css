@@ -62,11 +62,4 @@ li a:hover {
 img{
     height: 30%;
     width: 30%;
-    background-color: powderblue;
-}
-a:link {
-    color: black;
-}
-a:active {
-    color: black;
 }
