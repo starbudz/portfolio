@@ -53,9 +53,20 @@ li a:hover {
 }
 .icon-bar a {
   display: block;
-  text-align: center;
+  text-align: left;
   padding: 16px;
   transition: all 0.3s ease;
   color: white;
   font-size: 30px;
+}
+img{
+    height: 30%;
+    width: 30%;
+    background-color: powderblue;
+}
+a:link {
+    color: black;
+}
+a:active {
+    color: black;
 }
