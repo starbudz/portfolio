@@ -1,0 +1,10 @@
+html{
+  background-color: #29ab78;
+  font-family: sans-serif;
+}
+h1{
+  text-align: center;
+}
+.sidebar{
+  float: left;
+}
